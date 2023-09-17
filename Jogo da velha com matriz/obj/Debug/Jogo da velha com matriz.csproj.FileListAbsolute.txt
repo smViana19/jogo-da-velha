@@ -1,0 +1,11 @@
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\bin\Debug\Jogo da velha com matriz.exe.config
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\bin\Debug\Jogo da velha com matriz.exe
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\bin\Debug\Jogo da velha com matriz.pdb
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo da velha com matriz.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo da velha com matriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo_da_velha_com_matriz.JogoDaVelha.resources
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo_da_velha_com_matriz.Properties.Resources.resources
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo da velha com matriz.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo da velha com matriz.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo da velha com matriz.exe
+C:\Users\samue\source\repos\Jogo da velha com matriz\Jogo da velha com matriz\obj\Debug\Jogo da velha com matriz.pdb
